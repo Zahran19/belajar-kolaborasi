@@ -1,2 +1,2 @@
 # Belajar Kolaborasi
-ddwdsdsd
+Belajar GitHub di Dicoding sangat menyenangkan.
